@@ -3,6 +3,6 @@
 int main(){
 	while(1){
 		printf("hello");
-		sleep(1);
+		sleep(2);
 	}
 }
